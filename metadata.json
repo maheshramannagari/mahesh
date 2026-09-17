@@ -1,0 +1,6 @@
+{
+  "name": "Market Regime & Volatility AI",
+  "description": "Adaptive AI platform for quantitative financial market regime detection, GARCH volatility forecasting, and scenario risk analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
